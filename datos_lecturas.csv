@@ -1,9 +1,0 @@
-condicion,lectura_adc,humedad_porcentaje,estado,led
-tierra_humeda,265,74,TIERRA HUMEDA,encendido
-tierra_humeda,296,71,TIERRA HUMEDA,encendido
-tierra_humeda,320,68,TIERRA HUMEDA,encendido
-tierra_humeda,328,67,TIERRA HUMEDA,encendido
-tierra_humeda,331,67,TIERRA HUMEDA,encendido
-tierra_humeda,332,67,TIERRA HUMEDA,encendido
-tierra_humeda,333,67,TIERRA HUMEDA,encendido
-tierra_seca,~1023,0,TIERRA SECA,apagado
