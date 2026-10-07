@@ -44,7 +44,7 @@ La práctica conecta el tema **2.3 Biósfera** con la **litósfera**: el suelo e
 
 ## Diagrama del circuito
 
-<img src="Diagrama/diagrama_tinkercad.png" width="600">
+<img src="Imagenes/diagrama_tinkercad.png" width="600">
 
 ## Código
 
@@ -65,7 +65,7 @@ Puntos clave del código:
 
 | Tierra seca | Tierra húmeda |
 |---|---|
-| <img src="Terminal/monitor_serie_tierra_seca.jpg" width="400"> | <img src="Terminal/monitor_serie_tierra_humeda.jpg" width="400"> |
+| <img src="Imagenes/monitor_serie_tierra_seca.jpg" width="400"> | <img src="Imagenes/monitor_serie_tierra_humeda.jpg" width="400"> |
 
 ## Video del funcionamiento
 

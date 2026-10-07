@@ -1,1 +1,1 @@
-Fotos del armado real: sensor de humedad insertado en la muestra de suelo, protoboard con LED indicador y Arduino UNO R4 WiFi.
+Imagenes de la practica: diagrama del circuito en Tinkercad, fotos del armado real (sensor en la muestra de suelo) y capturas del Monitor Serie con tierra seca y tierra humeda.
